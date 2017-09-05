@@ -1,0 +1,31 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+
+.box {
+  min-height:33vh;
+  width: 30%;
+}
+
+.white {
+	  background-color: #fff;
+}
+
+.green {
+  background-color: #99CC3C;
+}
+
+.white {
+	  background-color: #fff;
+}
+
+.dark_green {
+  background-color: #16CC0E;
+}
+
+.white {
+	  background-color: #fff;
+}
+
+
+.yellow {
+  background-color: #FFD828;
+}
