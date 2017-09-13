@@ -3,29 +3,18 @@
 .box {
   min-height:33vh;
   width: 30%;
-}
+  
+}`		
 
 .white {
-	  background-color: #fff;
+		background-color: #fff;
+		
 }
+
 .green {
   background-color: #99CC3C;
+  
 }
-oneblock{
-
-	background-color:#99CC3C
-
-	width: 49%
-
-	height: 70%
-
-	display: inline-block;
-
-	font-family: Harrow, Impact;
-
-	font-size:35px
-
-		color: Green;}
 
 .white {
 	  background-color: #fff;
@@ -42,4 +31,14 @@ oneblock{
 
 .yellow {
   background-color: #FFD828;
+}
+white {
+	  background-color: #fff;
+}
+
+.blue {
+  background-color: #3879FF;
+}
+ badge {
+  background-color: #FFBD3A;
 }
