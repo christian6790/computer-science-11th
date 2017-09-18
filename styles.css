@@ -1,19 +1,18 @@
 body {
  height:95vh;
   width:95vw;
-  background-color:orange;
+  background-color:grey;
 }
 .container{
 	height:100%;
 	width:100%;
-	color:FF3D1E;
+	font-color:FF3D1E;
 	font-family:arial;
 	text-align:center;
 }
 
 .oneblock{
 	background-color:#99CC3C;
-	font-family:arial;
 	width:50%;
 	height:30%;
 	display:inline-block;
